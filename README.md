@@ -3,7 +3,7 @@
 Make programming more fun!
 ---
 ## 📖 这个项目是干啥的？
-This is a Python game to defend the castle
+Posting some Python games and tools
 
 ## 🔧 怎么运行它？
 1. 确保你电脑装了 Python 3.x,pygame
